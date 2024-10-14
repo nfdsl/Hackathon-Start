@@ -1,7 +1,7 @@
 # Gestão de Animais em Situação de Rua
 
 ## Descrição do Projeto
-Este projeto tem como objetivo desenvolver uma solução para o controle sustentável da população de animais em situação de rua no Recife. A solução aborda problemas de saúde pública, bem-estar animal e políticas de adoção, além de parcerias com ONGs locais.
+Este projeto tem como objetivo desenvolver uma solução para o controle sustentável da população de animais em situação de rua no Recife. A solução aborda problemas de saúde pública, bem-estar animal e políticas de adoção, além de parcerias com clínicas veterinárias e ONGs locais.
 
 ## Cenário
 A cidade de Recife enfrenta uma crescente quantidade de animais em situação de rua, resultando em:
